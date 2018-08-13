@@ -21,4 +21,4 @@ bot.on("ready", async () => {
     };
   });
 })
-bot.login(process.env.NDc4NTM2NTkwNDY2MDg4OTY0.DlMHjw.Iqu4WaNdKgKLK1Ia08Nk0PLEleY);
+bot.login(process.env.BOT_TOKEN);
